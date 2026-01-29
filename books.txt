@@ -1,0 +1,13 @@
+9780131103627|The C Programming Language|Brian W. Kernighan
+9780321751041|Effective C++|Scott Meyers
+9781492078005|Programming Rust|Jim Blandy
+1234567890123|Ong gia va bien ca|Ernest Hemingway
+9876543210987|Am thanh va cuong no|William Faulkner
+1357924680135|Thep da toi the day|Nikolai Ostrovsky
+2468013579246|Nha gia kim|Paulo Coelho
+3141592653589|Luoc su thoi gian|Stephen Hawking
+2718281828459|Cuon theo chieu gio|Margaret Munnerlyn Mitchell
+1029384756102|Nhung nguoi khon kho|Victor Hugo
+5647382910456|Hai so phan|Jeffrey Archer
+1928374650912|Doi gio hu|Ellis Bell
+9081726354820|Chien tranh va hoa binh|Lev Nikolayevich Tolstoy
